@@ -7,7 +7,7 @@ https://parkpakrsu.tistory.com/ 기록을 위한 제 블로그에도 같은 내�
 
 ## Contents 📚
 
-이 Repository에는 다음과 같은 주제에 대한 알고리즘 소스코드와 설명이 포함됩니다.\
+이 Repository에는 다음과 같은 주제에 대한 알고리즘 소스코드와 설명이 포함됩니다.
 - 정렬 알고리즘 (Sorting Algorithms)
 
 TIL의 기록과 연습장 같은 느낌으로 작성한 파일이 올라갑니다.
