@@ -1,8 +1,8 @@
 # Algorithm Study Repository 💻
 
-이 Repository는 알고리즘 공부를 위해 만들어진 공간입니다. 
-여기에는 저의 알고리즘 학습 과정과 함께 공부한 알고리즘에 관한 소스코드와 설명을 올릴 예정입니다. 
-https://parkpakrsu.tistory.com/ 기록을 위한 제 블로그에도 같은 내용이 올라갑니다.
+이 Repository는 알고리즘 공부를 위해 만들어진 공간입니다. \
+여기에는 저의 알고리즘 학습 과정과 함께 공부한 알고리즘에 관한 소스코드와 설명을 올릴 예정입니다. \
+https://parkpakrsu.tistory.com/ 기록을 위한 제 블로그에도 같은 내용이 올라갑니다.\
 이 Repository를 통해 CS 구조와 알고리즘 학습에 도움을 받는 것뿐만 아니라 저 스스로의 성장을 기록해나갈 수 있는 공간을 만들기를 희망합니다.
 
 ## Contents 📚
