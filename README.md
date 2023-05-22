@@ -7,14 +7,14 @@ https://parkpakrsu.tistory.com/ 기록을 위한 제 블로그에도 같은 내�
 
 ## Contents 📚
 
-이 Repository에는 다음과 같은 주제에 대한 알고리즘 소스코드와 설명이 포함됩니다.
+이 Repository에는 다음과 같은 주제에 대한 알고리즘 소스코드와 설명이 포함됩니다.\
 - 정렬 알고리즘 (Sorting Algorithms)
 
 TIL의 기록과 연습장 같은 느낌으로 작성한 파일이 올라갑니다.
 
 ## Folder Structure 📂
 
-Repository의 폴더 구조는 다음과 같습니다.
+Repository의 폴더 구조는 다음과 같습니다.\
 └── Sorting 
 
 각 폴더 안에는 해당 알고리즘에 대한 소스코드와 함께 간략한 설명이 담긴 ipynb 파일이 있습니다.
